@@ -1,0 +1,24 @@
+{
+  "name": "typescript-code-vs-zombie",
+  "version": "0.0.1",
+  "description": "",
+  "main": "codeingame.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node codeingame.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatingCodingame/typescript-code-vs-zombie.git"
+  },
+  "author": "Giovanni Cardamone <g.cardamone2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeatingCodingame/typescript-code-vs-zombie/issues"
+  },
+  "homepage": "https://github.com/BeatingCodingame/typescript-code-vs-zombie#readme",
+  "dependencies": {
+    "typescript": "^4.1.2",
+    "ts-node": "^9.1.1"
+  }
+}
